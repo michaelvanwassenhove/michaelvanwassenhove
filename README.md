@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelvanwassenhove
 - 👀 I’m interested in IT (duh...), football and live rock music
-- 🌱 I’m currently learning MS100+101 (Microsoft 365 Enterprise Administrator Expert)
+- 🌱 Highest Microsoft Certification: MS-102 (Microsoft 365 Certified: Administrator Expert)
 - 📫 Reach me via michaelvawa@gmail.com
 
 <!---
